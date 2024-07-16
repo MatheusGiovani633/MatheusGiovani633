@@ -1,5 +1,6 @@
 <div align = center>
 <h2>Olá meu nome é Matheus Giovani 👨‍💻</h2>
+<h4>Sou desenvolvedor fullstack junior</h4>
  <div style="display:inline_block">
     <a href="https://www.linkedin.com/in/matheus-giovani-da-silva-pereira-ab0993210/"><img aling="center" alt="html5" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/matheus-giovani-da-silva-pereira-ab0993210"><img aling="center" alt="html5" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -18,6 +19,8 @@
     <img aling="center" alt="html5" src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
     <img aling="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img aling="center" alt="html5" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img aling="center" alt="html5" src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img aling="center" alt="html5" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div>
 <h2>Tecnologias que estou estudando no momento: </h2>
 <div>

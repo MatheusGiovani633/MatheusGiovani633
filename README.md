@@ -1,6 +1,6 @@
 <div align = center>
 <h2>Olá meu nome é Matheus Giovani 👨‍💻</h2>
-<h4>Sou desenvolvedor fullstack junior</h4>
+<h4>Sou desenvolvedor Fullstack Junior</h4>
  <div style="display:inline_block">
     <a href="https://www.linkedin.com/in/matheus-giovani-da-silva-pereira-ab0993210/"><img aling="center" alt="html5" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/matheus-giovani-da-silva-pereira-ab0993210"><img aling="center" alt="html5" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=linkedin&logoColor=white" /></a>

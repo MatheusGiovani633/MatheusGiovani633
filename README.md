@@ -25,5 +25,6 @@
 <h2>Tecnologias que estou estudando no momento: </h2>
 <div>
     <img aling="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img aling="center" alt="html5" src="https://img.shields.io/badge/Express-FBF3F0?style=for-the-badge&logo=express&logoColor=black" />
 </div>
 </div>

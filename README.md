@@ -26,5 +26,6 @@
 <div>
     <img aling="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img aling="center" alt="html5" src="https://img.shields.io/badge/Express-FBF3F0?style=for-the-badge&logo=express&logoColor=black" />
+    <img aling="center" alt="html5" src="https://img.shields.io/badge/Handlebars.js-000000?style=for-the-badge&logo=handlebarsdotjs&logoColor=ff7400" />
 </div>
 </div>

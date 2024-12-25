@@ -21,12 +21,13 @@
     <img aling="center" alt="html5" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
     <img aling="center" alt="html5" src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     <img aling="center" alt="html5" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-</div>
-<h2>Tecnologias que estou estudando no momento: </h2>
-<div>
     <img aling="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img aling="center" alt="html5" src="https://img.shields.io/badge/Express-FBF3F0?style=for-the-badge&logo=express&logoColor=black" />
     <img aling="center" alt="html5" src="https://img.shields.io/badge/Handlebars.js-000000?style=for-the-badge&logo=handlebarsdotjs&logoColor=ff7400" />
     <img aling="center" alt="html5" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=black" />
+</div>
+<h2>Tecnologias que estou estudando no momento: </h2>
+<div>
+    <img aling="center" alt="html5" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
 </div>
 </div>
